@@ -37,6 +37,7 @@ uv pip install langchain_groq langchain_community langchain_classic wikipedia nu
 ```
 **4. Add your API Key:**
 Open demo_agent.py and replace "YOUR_GROQ_API_KEY_HERE" with your actual Groq API key on Line 19.
+
 **5. 💻 Running the Agent:**
 ```bash
 python demo_agent.py
