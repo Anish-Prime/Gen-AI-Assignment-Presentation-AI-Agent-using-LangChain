@@ -23,8 +23,8 @@ It is highly recommended to use a virtual environment (like `uv` or `venv`) to p
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/beyond-the-chatbot.git](https://github.com/YOUR_USERNAME/beyond-the-chatbot.git)
-cd beyond-the-chatbot
+git clone [https://github.com/Anish-Prime/Gen-AI-Assignment-Presentation-AI-Agent-using-LangChain.git](https://github.com/Anish-Prime/Gen-AI-Assignment-Presentation-AI-Agent-using-LangChain.git)
+cd Gen-AI-Assignment-Presentation-AI-Agent-using-LangChain
 ```
 **2. Create and activate a virtual environment (using uv):**
 ```bash
